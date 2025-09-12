@@ -1,4 +1,4 @@
-# ASCII Adventurer
+# ASCII Adventurer SE1 F24
 
 ASCII Adventurer is a text-based adventure game where players explore various terrains, encounter enemies, and collect items. The game features different rooms, dungeons, and a village where players can interact with NPCs and purchase items.
 
